@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepvikram&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepvikram" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Pursuing Diverse Proficiencies: Currently Engaged in Learning Data Science, Data Engineering, Data Analysis, and Machine Learning to Broaden Skill Set.</strong></li>
+  <li>🌱 I’m currently  <strong>pursuing Diverse Proficiencies: Currently Engaged in Learning Data Science, Data Engineering, Data Analysis, and Machine Learning to Broaden Skill Set.</strong></li>
   <li>💬 Ask me about <strong>Azure, DevOps, Kubernetes, Docker, Jenkins, Terraform, Linux</strong></li>
 </ul>
 
