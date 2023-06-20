@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/devops-banner-web-icon-vector-illustration-concept-software-engineering-development-icon-plan-code-build-test-251072445.jpg)](https://github.com/sandeepvikram)
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)](https://github.com/sandeepvikram)
 
 <h1 align="center">Hi 👋, I'm Vikram Sagar</h1>
 <h3 align="center">"Venturing Beyond Cloud: A Seasoned DevOps/Cloud Specialist Expanding Horizons into the World of Data"</h3>
@@ -13,25 +13,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikram-sagar-aa4238111/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-sagar-aa4238111/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vikram-sagar-aa4238111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vikram-sagar-aa4238111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  [![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/)
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
   <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="bash"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="gcp"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/kibana.png" alt="kibana"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
-  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgres"/>
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"/>
 </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvikram&theme=radical&hide=glsl,python" alt="sandeepvikram" /></p>
