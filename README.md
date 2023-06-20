@@ -18,23 +18,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="azure"/>
   <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="bash"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="gcp"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"/>
   <img src="https://img.icons8.com/color/48/000000/kibana.png" alt="kibana"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
-  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="rabbitMQ"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit_learn"/>
 </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvikram&theme=radical&hide=glsl,python" alt="sandeepvikram" /></p>
