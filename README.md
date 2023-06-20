@@ -13,20 +13,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vikram-sagar-aa4238111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vikram-sagar-aa4238111" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vikram-sagar-aa4238111/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  [![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-in/)
+  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
   <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="bash"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgres"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="gcp"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"/>
+  <img src="https://img.icons8.com/color/48/000000/kibana.png" alt="kibana"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
 </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvikram&theme=radical&hide=glsl,python" alt="sandeepvikram" /></p>
